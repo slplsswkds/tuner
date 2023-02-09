@@ -9,3 +9,4 @@ edition = "2021"
 anyhow = "1.0.68"
 cpal = {version = "0.14.2", features = ["jack"]}
 ringbuf = {version = "0.3.2"}
+nalgebra = {version = "0.32.1"}
